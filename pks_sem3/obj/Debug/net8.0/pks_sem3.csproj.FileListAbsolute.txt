@@ -1,0 +1,14 @@
+C:\Users\Mufln\RiderProjects\pks_sem3\pks_sem3\obj\Debug\net8.0\pks_sem3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mufln\RiderProjects\pks_sem3\pks_sem3\obj\Debug\net8.0\pks_sem3.AssemblyInfoInputs.cache
+C:\Users\Mufln\RiderProjects\pks_sem3\pks_sem3\obj\Debug\net8.0\pks_sem3.AssemblyInfo.cs
+C:\Users\Mufln\RiderProjects\pks_sem3\pks_sem3\obj\Debug\net8.0\pks_sem3.csproj.CoreCompileInputs.cache
+C:\Users\Mufln\RiderProjects\pks_sem3\pks_sem3\bin\Debug\net8.0\pks_sem3.exe
+C:\Users\Mufln\RiderProjects\pks_sem3\pks_sem3\bin\Debug\net8.0\pks_sem3.deps.json
+C:\Users\Mufln\RiderProjects\pks_sem3\pks_sem3\bin\Debug\net8.0\pks_sem3.runtimeconfig.json
+C:\Users\Mufln\RiderProjects\pks_sem3\pks_sem3\bin\Debug\net8.0\pks_sem3.dll
+C:\Users\Mufln\RiderProjects\pks_sem3\pks_sem3\bin\Debug\net8.0\pks_sem3.pdb
+C:\Users\Mufln\RiderProjects\pks_sem3\pks_sem3\obj\Debug\net8.0\pks_sem3.dll
+C:\Users\Mufln\RiderProjects\pks_sem3\pks_sem3\obj\Debug\net8.0\refint\pks_sem3.dll
+C:\Users\Mufln\RiderProjects\pks_sem3\pks_sem3\obj\Debug\net8.0\pks_sem3.pdb
+C:\Users\Mufln\RiderProjects\pks_sem3\pks_sem3\obj\Debug\net8.0\pks_sem3.genruntimeconfig.cache
+C:\Users\Mufln\RiderProjects\pks_sem3\pks_sem3\obj\Debug\net8.0\ref\pks_sem3.dll
